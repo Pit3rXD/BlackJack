@@ -58,9 +58,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LiczeniePunktow.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="CountPointsService.cs" />
     <Compile Include="Stol.cs" />
-    <Compile Include="Karty.cs" />
+    <Compile Include="KartyService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
